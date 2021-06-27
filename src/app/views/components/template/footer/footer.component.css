@@ -1,0 +1,27 @@
+.footer {
+    height: 7%;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.footer a {
+    text-decoration: none;
+    color: rgb(141, 139, 139);
+}
+
+p {
+    color: rgb(141, 139, 139);
+    margin: 0;
+    font-size: 1rem;
+    border-radius: 1px solid rgb(58, 57, 57);
+    padding: 0 8%;
+    border-radius: 20px;
+}
+
+mat-icon {
+    color: rgb(204, 9, 9) !important;
+    font-size: 19px;
+}

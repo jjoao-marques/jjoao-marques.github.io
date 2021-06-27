@@ -1,0 +1,45 @@
+.create {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.create h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.create button {
+    width: 100%;
+    margin: 1rem auto;
+}
+
+.container.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    width: 100%;
+}
+
+#edit {
+    color: rgb(213, 232, 87);
+}
+
+#visibility {
+    color: rgba(255, 255, 255, 0.912);
+}
+
+td.low {
+    color: rgb(5, 179, 5);
+}
+
+td.medium {
+    color: rgb(213, 213, 0);
+}
+
+td.high {
+    color: rgb(202, 46, 46)
+}
